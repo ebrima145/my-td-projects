@@ -2,6 +2,8 @@
 
 A couple of TouchDesigner projects built on webcam hand tracking.
 
+Made by **Ebrima** · Instagram [@ebjxyz](https://www.instagram.com/ebjxyz/)
+
 | File | What it is |
 |---|---|
 | `hand_lights.toe` | Hand-tracking driven lights |
