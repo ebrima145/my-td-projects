@@ -1,0 +1,14 @@
+# Too big for GitHub (180 MB) — download it from the MediaPipe plugin release, see README
+MediaPipe/toxes/MediaPipe.tox
+
+# TouchDesigner autosaves and numbered backups
+Backup/
+*.[0-9].toe
+*.[0-9][0-9].toe
+CrashAutoSave*
+TDImportCache/
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
