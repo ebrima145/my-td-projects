@@ -1,6 +1,6 @@
 # TD Share
 
-A couple of TouchDesigner projects built on webcam hand tracking.
+A couple of my TouchDesigner projects.
 
 Made by **Ebrima** · Instagram [@ebjxyz](https://www.instagram.com/ebjxyz/)
 
